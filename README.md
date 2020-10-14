@@ -18,9 +18,9 @@ $ go run cmd/dgadventures/main.go -t <your_discord_token_here>
 ## Credit
 
 ### Libraries
-- [discordgo](github.com/bwmarrin/discordgo)
-- [dgrouter](github.com/Necroforger/dgrouter)
+- [discordgo](https://github.com/bwmarrin/discordgo)
+- [dgrouter](https://github.com/Necroforger/dgrouter)
 
 ### Inspiration
-- [dgwidgets](github.com/Necroforger/dgwidgets)
+- [dgwidgets](https://github.com/Necroforger/dgwidgets)
 
